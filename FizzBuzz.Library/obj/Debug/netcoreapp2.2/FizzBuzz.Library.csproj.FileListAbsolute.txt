@@ -1,0 +1,17 @@
+C:\Users\x205605\source\FizzBuzz.Library\bin\Debug\netcoreapp2.2\FizzBuzz.Library.deps.json
+C:\Users\x205605\source\FizzBuzz.Library\bin\Debug\netcoreapp2.2\FizzBuzz.Library.dll
+C:\Users\x205605\source\FizzBuzz.Library\bin\Debug\netcoreapp2.2\FizzBuzz.Library.pdb
+C:\Users\x205605\source\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.csprojAssemblyReference.cache
+C:\Users\x205605\source\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Users\x205605\source\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.AssemblyInfoInputs.cache
+C:\Users\x205605\source\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.AssemblyInfo.cs
+C:\Users\x205605\source\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.dll
+C:\Users\x205605\source\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.pdb
+C:\Users\x205605\source\repos\FizzBuzz.Library\bin\Debug\netcoreapp2.2\FizzBuzz.Library.deps.json
+C:\Users\x205605\source\repos\FizzBuzz.Library\bin\Debug\netcoreapp2.2\FizzBuzz.Library.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library\bin\Debug\netcoreapp2.2\FizzBuzz.Library.pdb
+C:\Users\x205605\source\repos\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Users\x205605\source\repos\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.AssemblyInfoInputs.cache
+C:\Users\x205605\source\repos\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.AssemblyInfo.cs
+C:\Users\x205605\source\repos\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library\obj\Debug\netcoreapp2.2\FizzBuzz.Library.pdb

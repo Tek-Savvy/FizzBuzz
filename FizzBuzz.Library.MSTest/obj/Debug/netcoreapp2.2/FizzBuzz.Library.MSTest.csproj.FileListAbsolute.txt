@@ -1,0 +1,17 @@
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.deps.json
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.runtimeconfig.json
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.runtimeconfig.dev.json
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.pdb
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\FizzBuzz.Library.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\bin\Debug\netcoreapp2.2\FizzBuzz.Library.pdb
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\obj\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.csprojAssemblyReference.cache
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\obj\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.csproj.CoreCompileInputs.cache
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\obj\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.AssemblyInfoInputs.cache
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\obj\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.AssemblyInfo.cs
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\obj\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.csproj.CopyComplete
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\obj\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.dll
+C:\Users\x205605\source\repos\FizzBuzz.Library.MSTest\obj\Debug\netcoreapp2.2\FizzBuzz.Library.MSTest.pdb

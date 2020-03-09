@@ -8,20 +8,6 @@ namespace FizzBuzz.Library.MSTest
     [TestClass]
     public class FizzBuzzerTest
     {
-        //[TestMethod]
-        //public void FizzBuzz_When1_Return1()
-        //{
-        //    //Arrange
-        //    int input = 1;
-
-        //    //Act
-        //    string output = FizzBuzzer.GetValue(input);
-
-        //    //Assert
-        //    Assert.AreEqual("1", output);
-        //}
-
-        //https://www.youtube.com/watch?v=l4xhTq4qmC0 YOUTUBE LINK
 
         [DataRow(1)]
         [DataRow(2)]

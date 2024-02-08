@@ -9,4 +9,4 @@ When a number is multiple of three, print “Fizz” instead of a number on the 
 Any integer number
 
 # Approach
-This is a simple application to demonstrate has developer can practise TDD based approach. There are two test projects one is using MSTest and another one NUnit test.
+This is a simple application to demonstrate how developer can practise TDD based approach. There are two test projects one is using MSTest and another one NUnit test.
